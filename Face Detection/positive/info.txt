@@ -1,0 +1,10 @@
+rawdata/a1.bmp 1 0 0 160 126
+rawdata/a10.bmp 1 0 0 160 126
+rawdata/a2.bmp 1 0 0 160 126
+rawdata/a3.bmp 1 0 0 160 126
+rawdata/a4.bmp 1 0 0 160 126
+rawdata/a5.bmp 1 0 0 160 126
+rawdata/a6.bmp 1 0 0 160 126
+rawdata/a7.bmp 1 0 0 160 126
+rawdata/a8.bmp 1 0 0 160 126
+rawdata/a9.bmp 1 0 0 160 126
